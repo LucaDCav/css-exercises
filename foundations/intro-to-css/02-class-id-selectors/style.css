@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.pinky {
+    background-color: rgb(255, 167, 167);
+    font-size: 30px;
+}
+
+.pinky.cooler {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#bluewy {
+    color: blue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#greeny {
+    background-color: lightgreen;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}

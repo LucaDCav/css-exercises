@@ -1,0 +1,12 @@
+#black {
+    background-color: black;
+    color: white;
+    font-size: 50px;
+}
+
+#yellow {
+    background-color: yellow;
+    color: black;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
